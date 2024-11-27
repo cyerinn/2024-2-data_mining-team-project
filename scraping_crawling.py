@@ -1,13 +1,13 @@
+import os
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
 
 # 1. book dataset load
-books_data = pd.read_csv("c:/Users/rin02/Desktop/3-2/data_mining/project_dataset/books/books.csv")
-# books_tag_data = pd.read_csv("c:/Users/rin02/Desktop/3-2/data_mining/project_dataset/books/book_tags.csv") 
-# books_tag = pd.read_csv("c:/Users/rin02/Desktop/3-2/data_mining/project_dataset/books/tags.csv") 
-books_ratings = pd.read_csv("c:/Users/rin02/Desktop/3-2/data_mining/project_dataset/books/ratings.csv")
-books_users = pd.read_csv("c:/Users/rin02/Desktop/3-2/data_mining/project_dataset/books/to_read.csv")
+current_dir = os.path.dirname(__file__)
+data_path = os.path.join(current_dir, "../project_dataset/books/books.csv")
+
+books_data = pd.read_csv(data_path)
 
 # 2. scraping / crawling function
 def get_genre_for_book(book_title):
