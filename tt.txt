@@ -1,0 +1,35 @@
+Recommendations for User 18628:
+Movie ID: 858, Hybrid Score: 6.64
+Movie ID: 1221, Hybrid Score: 6.57
+Movie ID: 3089, Hybrid Score: 6.24
+Movie ID: 52435, Hybrid Score: 5.91
+Movie ID: 2731, Hybrid Score: 5.81
+Movie ID: 73344, Hybrid Score: 5.39
+Movie ID: 595, Hybrid Score: 5.38
+Movie ID: 364, Hybrid Score: 5.36
+Movie ID: 7153, Hybrid Score: 4.65
+Movie ID: 7502, Hybrid Score: 4.45
+
+
+Recommendations with Titles:
+Movie: Godfather, The (1972), Hybrid Score: 6.64
+Movie: Godfather: Part II, The (1974), Hybrid Score: 6.57
+Movie: Bicycle Thieves (a.k.a. The Bicycle Thief) (a.k.a. The Bicycle Thieves) (Ladri di biciclette) (1948), Hybrid Score: 6.24
+Movie: How the Grinch Stole Christmas! (1966), Hybrid Score: 5.91
+Movie: 400 Blows, The (Les quatre cents coups) (1959), Hybrid Score: 5.81
+Movie: Prophet, A (Un Prophète) (2009), Hybrid Score: 5.39
+Movie: Beauty and the Beast (1991), Hybrid Score: 5.38
+Movie: Lion King, The (1994), Hybrid Score: 5.36
+Movie: Lord of the Rings: The Return of the King, The (2003), Hybrid Score: 4.65
+Movie: Band of Brothers (2001), Hybrid Score: 4.45
+
+
+Books similar to the movie 'World of Apu':
+1804               Night World, No. 3 (Night World, #7-9)
+1080         Winter of the World (The Century Trilogy #2)
+3674      Genghis Khan and the Making of the Modern World
+143     Unbroken: A World War II Story of Survival, Re...
+2049               Night World, No. 2 (Night World, #4-6)
+Name: title, dtype: object
+
+
